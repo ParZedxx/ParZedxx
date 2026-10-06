@@ -1,4 +1,4 @@
-### Hola, soy ParZedxx (MSV)
+### Hola, soy MSV
 
 > Creando scripts para navegador, herramientas web ligeras y prompts de IA.
 
