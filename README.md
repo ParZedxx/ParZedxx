@@ -1,6 +1,6 @@
-### Hola, soy MSV
+###  Soy MSV
 
-> Creando scripts para navegador, herramientas web ligeras y prompts de IA.
+> Creo scripts para navegador, herramientas web ligeras y prompts de IA.
 
 ---
 
@@ -20,7 +20,7 @@
 
 #### 🛠️ Tecnologías que uso
 
-`JavaScript` · `Python` · `HTML / CSS` · `Git` · `Brave / Chrome`
+`JavaScript / Java` · `Python` · `HTML / CSS` · `Git` 
 
 ---
 
